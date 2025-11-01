@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-website-workshop/static/css/main.c6849df4.css",
+    "main.js": "/personal-website-workshop/static/js/main.69bfcbbb.js",
+    "index.html": "/personal-website-workshop/index.html",
+    "main.c6849df4.css.map": "/personal-website-workshop/static/css/main.c6849df4.css.map",
+    "main.69bfcbbb.js.map": "/personal-website-workshop/static/js/main.69bfcbbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6849df4.css",
+    "static/js/main.69bfcbbb.js"
+  ]
+}
